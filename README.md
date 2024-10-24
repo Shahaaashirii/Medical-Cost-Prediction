@@ -2,6 +2,7 @@
 # Medical Cost Prediction
 
 This project aims to predict medical insurance costs based on personal information such as age, BMI, smoking status, etc. using Linear Regression and Random Forest models. The dataset was sourced from Kaggle.
+The deployment of the model is done using the python django .
 
 ## Project Features
 - Data Cleaning
